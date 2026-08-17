@@ -294,45 +294,6 @@ College-Campus-Network-Security/
     ├── InterVLAN_Routing.png
     ├── ACL_Configuration.png
     └── Ping_Test.png
-```
-
----
-
-# 📸 Project Screenshots
-
-## Network Topology
-
-Add your final Cisco Packet Tracer topology screenshot here.
-
-```text
-![Network Topology](Screenshots/Final_Topology.png)
-```
-
-## VLAN Configuration
-
-```text
-![VLAN Configuration](Screenshots/VLAN_Configuration.png)
-```
-
-## Inter-VLAN Routing
-
-```text
-![Inter-VLAN Routing](Screenshots/InterVLAN_Routing.png)
-```
-
-## ACL Configuration
-
-```text
-![ACL Configuration](Screenshots/ACL_Configuration.png)
-```
-
-## Connectivity Testing
-
-```text
-![Ping Test](Screenshots/Ping_Test.png)
-```
-
----
 
 # 🚀 Key Features
 
