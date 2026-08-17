@@ -1,4 +1,3 @@
-Sure machi 🔥 Below is a **professional GitHub-ready README.md** tailored for your exact project. You can copy this directly into your repository's `README.md`.
 
 # 🔐 College Campus Network Security Using VLANs, Inter-VLAN Routing & ACL
 
